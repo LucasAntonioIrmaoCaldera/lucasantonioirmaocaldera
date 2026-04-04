@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Antônio Irmão Caldera, tenho 19 anos. A princípio, sempre tive muito interesse com computadores, em como funcionam e as inumeras funcionalidades que eles possuem. Logo, por esse motivo, em busca de conhecer mais sobre o desenvolvimento de um programa, durante o Ensino Médio fiz o curso técnico de Desenvolvedor Front-End, e acabei gostando muito. Sendo assim, decidi continuar a estudar e me qualificar na área. No ano após o terceiro ano do E.M., também, fiz o curso técnico de Desenvolvedor FullStack e atualmente, estou cursando Engenharia da Computação na UniCEUB.
+Me chamo Lucas Antônio Irmão Caldera, tenho 19 anos. A princípio, sempre tive muito interesse com computadores, em como funcionam e as inumeras funcionalidades que eles possuem. Logo, por esse motivo, em busca de conhecer mais sobre o desenvolvimento de um programa, durante o Ensino Médio fiz o curso técnico de Desenvolvedor Front-End, e acabei gostando muito. Sendo assim, decidi continuar a estudar e me qualificar na área. No ano após o terceiro ano do E.M., também, fiz o curso técnico de Desenvolvedor FullStack, e atualmente estou cursando Engenharia da Computação na UniCEUB.
 
 ---
 
